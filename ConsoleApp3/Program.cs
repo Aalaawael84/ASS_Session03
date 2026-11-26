@@ -113,6 +113,16 @@
             //i++;
             //}
             #endregion
+
+            #region Question14
+            //int i = 0;
+            //do
+            //{
+            //Console.WriteLine("Checking book..");
+            //i++;
+            //}
+            //while (i < 3);
+            #endregion
         }
     }
 }
