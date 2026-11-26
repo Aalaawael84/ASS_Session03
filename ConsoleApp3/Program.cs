@@ -23,6 +23,14 @@
             //text.Append("-updated");
             //Console.WriteLine(text);
             #endregion
+
+            #region Question4
+            //var text = new StringBuilder("");
+            //text.Append("Book List");
+            //text.Append("-updated");
+            //text.Replace("Book List", "Library");
+            //Console.WriteLine(text);
+            #endregion
         }
     }
 }
