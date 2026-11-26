@@ -10,6 +10,12 @@
             //Console.WriteLine(title);
             //Console.WriteLine(upperTitle);
             #endregion
+
+            #region Question2
+            //string title1 = "Clean Code";
+            //string title2 = "Clean Code";
+            //Console.WriteLine(ReferenceEquals(title1, title2));
+            #endregion
         }
     }
 }
