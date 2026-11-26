@@ -155,6 +155,12 @@
             //Console.WriteLine(book);
             //}
             #endregion
+
+            #region Question18
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+
+
+            #endregion
         }
     }
 }
