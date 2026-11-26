@@ -38,6 +38,14 @@
             //string message = "Book:" + title + ", " + "pages:" + pages ;
             //Console.WriteLine(message);
             #endregion
+
+            #region Question6
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string message =$"Book: {title}, Pages: {pages}";
+            //Console.WriteLine(message);
+            #endregion
+
         }
     }
 }
