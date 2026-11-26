@@ -16,6 +16,13 @@
             //string title2 = "Clean Code";
             //Console.WriteLine(ReferenceEquals(title1, title2));
             #endregion
+
+            #region Question3
+            //var text = new StringBuilder("");
+            //text.Append("Book List");
+            //text.Append("-updated");
+            //Console.WriteLine(text);
+            #endregion
         }
     }
 }
