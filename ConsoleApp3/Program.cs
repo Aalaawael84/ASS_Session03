@@ -31,6 +31,13 @@
             //text.Replace("Book List", "Library");
             //Console.WriteLine(text);
             #endregion
+
+            #region Question5
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string message = "Book:" + title + ", " + "pages:" + pages ;
+            //Console.WriteLine(message);
+            #endregion
         }
     }
 }
